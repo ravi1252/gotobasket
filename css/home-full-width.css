@@ -2,9 +2,13 @@
 	height : 26px;
 	background : black;
 	line-height : 33px;
-	height : auto;
+	height : 85px;
+	 background-color:#005387;
 }
-
+img {
+    margin-top:20px;
+}
+p { border-right: 1px solid grey; }
 .topHeaderFont {
 	color : #E6E6E6;
 	font-size : 11px;
@@ -35,7 +39,7 @@
 }
 
 .searchInputBox {
-	width : 223px !important;
+	width : 550px !important;
 }
 
 .registerButton {
